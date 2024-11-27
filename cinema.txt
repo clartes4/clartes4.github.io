@@ -1,0 +1,54 @@
+### 1. **Multiplex Giometti**
+   - **Indirizzo:** Via Filonzi, 4 - Ancona (AN)
+   - **Telefono:** 07194123
+   - **Film in programmazione:**
+     - **Eterno Visionario**
+       - Orari: 20:00
+     - **Il Ragazzo dai Pantaloni Rosa**
+       - Orari: 18:00, 20:20, 22:30
+     - **Berlinguer - La Grande Ambizione**
+       - Orari: 22:40
+     - **Terrifier 3**
+       - Orari: 17:40, 20:15, 22:45
+     - **Uno Rosso**
+       - Orari: 17:30, 20:15, 22:40
+     - **Venom: The Last Dance**
+       - Orari: 17:50, 20:10, 22:30
+     - **Anora**
+       - Orari: 21:00
+     - **Un'avventura spaziale - Un film dei Looney Tunes**
+       - Orari: 17:30
+     - **The Substance**
+       - Orari: 19:30, 22:15
+     - **Parthenope**
+       - Orari: 18:30
+     - **Buffalo Kids**
+       - Orari: 17:30
+     - **Il Robot Selvaggio**
+       - Orari: 17:40
+     - **Stop Making Sense**
+       - Orari: 21:00
+
+### 2. **Movieland Goldoni**
+   - **Indirizzo:** Via Montebello, 91 - Ancona (AN)
+   - **Telefono:** 071201236
+   - **Film in programmazione:**
+     - **Il Ragazzo dai Pantaloni Rosa**
+       - Orari: 18:30, 21:10
+     - **Berlinguer - La Grande Ambizione**
+       - Orari: 18:15
+     - **Eterno Visionario**
+       - Orari: 20:45
+
+### 3. **Cinema Azzurro**
+   - **Indirizzo:** Via Tagliamento, 39 - Ancona (AN)
+   - **Telefono:** 0710973884
+   - **Film in programmazione:**
+     - **Anora**
+       - Orari: 21:00
+     - **Vermiglio**
+       - Orari: 16:30, 18:45
+
+### Informazioni Aggiuntive:
+**Prezzi biglietti:** Prezzo medio del biglietto intero è di €6,50.  
+**Consigli:** È consigliato prenotare i biglietti online per evitare code e garantire l'ingresso, soprattutto per i film più richiesti.
