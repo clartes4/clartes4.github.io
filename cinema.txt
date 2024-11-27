@@ -3,27 +3,27 @@
    - **Telefono:** 07194123
    - **Film in programmazione:**
      - **Oceania 2**
-       - Orari: 15:30, 16:00, 16:30, 17:30, 18:00, 18:30, 19:30, 20:30, 21:30, 22:30 (3D alle 20:00)
-     - **Wicked**
-       - Orari: 15:30, 20:40, 22:30 (Versione originale con sottotitoli alle 17:30)
-     - **Il Gladiatore II**
-       - Orari: 18:30, 21:40
-     - **Il Ragazzo dai Pantaloni Rosa**
-       - Orari: 15:20, 17:40, 20:10
+       - Orari: 15:30, 16:00, 16:30, 17:30, 18:00, 18:30, 19:30, 20:30, 21:30, 22:30 (3D: 20:00)
      - **Napoli - New York**
        - Orari: 17:30, 22:40
+     - **Wicked**
+       - Orari: 20:40, 22:30 (Versione originale con sottotitoli: 17:30)
      - **Una Terapia di Gruppo**
        - Orari: 18:00, 20:40, 22:40
+     - **Il Gladiatore II**
+       - Orari: 18:30, 21:40
      - **Giurato Numero 2**
        - Orari: 15:40, 20:20
+     - **Il Ragazzo dai Pantaloni Rosa**
+       - Orari: 15:20, 17:40, 20:10
+     - **Hayao Miyazaki e l'Airone**
+       - Orari: 20:50
+     - **Le Déluge - Gli ultimi giorni di Maria Antonietta**
+       - Orari: 21:00
      - **Terrifier 3**
        - Orari: 22:40
-     - **Il Robot Selvaggio**
-       - Orari: 15:30
      - **La Banda di Don Chisciotte - Missione Mulini a Vento**
        - Orari: 15:40
-     - **The Strangers - Capitolo 1**
-       - Orari: 22:45
 
 ### 2. **Cinema Azzurro**
    - **Indirizzo:** Via Tagliamento, 39 - Ancona (AN)
@@ -32,10 +32,25 @@
      - **Le Déluge - Gli ultimi giorni di Maria Antonietta**
        - Orari: 21:00
 
+### 3. **Movieland Goldoni**
+   - **Indirizzo:** Via Montebello, 91 - Ancona (AN)
+   - **Telefono:** 071201236
+   - **Film in programmazione:**
+     - **Oceania 2**
+       - Orari: 18:00, 20:30
+     - **Napoli - New York**
+       - Orari: 18:40, 21:10
+     - **Una Terapia di Gruppo**
+       - Orari: 18:20
+     - **Hayao Miyazaki e L'Airone**
+       - Orari: 20:50
+
 ### Informazioni Aggiuntive:
 **Prezzi biglietti:** 
 - Intero: €9,50
 - Ridotto: €7,50 (under 12, over 65, militari, corpi dello stato, invalidi e portatori di handicap)
-- Mercoledì: €6,50 (escluso festivi, prefestivi, eventi speciali e primo giorno di programmazione)
+- Mercoledì: €6,50
 
-**Consigli:** È consigliato prenotare i biglietti online o tramite app per garantire l'accesso, specialmente per film molto richiesti. L'ingresso in sala è consentito solo a film non iniziati.
+**Consigli:**
+- È consigliato acquistare i biglietti in anticipo, soprattutto per i film in prima visione.
+- Arrivare in sala almeno 10-15 minuti prima dell'orario di inizio per trovare il posto.
