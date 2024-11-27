@@ -20,39 +20,49 @@
    - **Orari:** 08:00 - 20:00
    - **Telefono:** 071 202771
 
-5. **Farmacia Ancona**
+5. **Farmacia Posatora**
+   - **Indirizzo:** Via Martin Luther King, 9, Ancona, AN, 60131
+   - **Orari:** 08:00 - 13:00, 15:30 - 20:00
+   - **Telefono:** 071 42767
+
+6. **Farmacia Ancona**
    - **Indirizzo:** Corso Giovanni Amendola, 5/B, Ancona, AN, 60123
-   - **Orari:** 08:30 - 13:30, 16:00 - 19:30
+   - **Orari:** 08:30 - 13:00, 16:00 - 19:30
    - **Telefono:** 071 204142
 
-6. **Farmacia del Passetto**
+7. **Farmacia del Passetto**
    - **Indirizzo:** Viale della Vittoria, 75/b, Ancona, AN, 60123
    - **Orari:** 08:30 - 13:00, 15:30 - 20:00
    - **Telefono:** 071 32366
 
-7. **Farmacia delle Grazie**
+8. **Farmacia delle Grazie**
    - **Indirizzo:** Via Mario Torresi, 135, Ancona, AN, 60128
    - **Orari:** 07:45 - 20:00
    - **Telefono:** 071 898332
 
-8. **Farmacia Zecchini**
-   - **Indirizzo:** Piazza Roma, 1, Ancona, AN, 60121
-   - **Orari:** 08:30 - 20:00
-   - **Telefono:** 071 2074804
+9. **Farmacia Sciarrillo**
+   - **Indirizzo:** Via Ascoli Piceno, 23, Ancona, AN, 60126
+   - **Orari:** 08:00 - 20:00
+   - **Telefono:** 071 898061
 
-9. **Farmacia dell'Orologio**
-   - **Indirizzo:** Piazza Roma, 7, Ancona, AN, 60121
-   - **Orari:** 08:00 - 13:00, 16:00 - 19:45
-   - **Telefono:** 071 2074801
+10. **Farmacia Zecchini**
+    - **Indirizzo:** Piazza Roma, 1, Ancona, AN, 60121
+    - **Orari:** 08:30 - 20:00
+    - **Telefono:** 071 2074804
 
-10. **Farmacia Sciarrillo**
-    - **Indirizzo:** Via Ascoli Piceno, 23, Ancona, AN, 60126
+11. **Farmacia Flaminia**
+    - **Indirizzo:** Via Esino, 62, Ancona, AN, 60126
     - **Orari:** 08:00 - 20:00
-    - **Telefono:** 071 898061
+    - **Telefono:** 071 888251
+
+12. **Farmacia Nazionale**
+    - **Indirizzo:** Via Guglielmo Marconi, 131, Ancona, AN, 60125
+    - **Orari:** 08:30 - 13:00, 16:30 - 20:30
+    - **Telefono:** 071 204040
 
 ### Farmacie di Turno Notturno Questa Settimana
-- **Farmacia Centrale**
-   - **Indirizzo:** Corso Mazzini, 1, Ancona, AN, 60121
-   - **Telefono:** 071 2084647
+- **Farmacia del Piano**
+   - **Indirizzo:** Piazza Ugo Bassi, 4, Ancona, AN, 60121
+   - **Telefono:** 071 894208
 
-Le informazioni sopra riportate sono utili per chi cerca servizi farmaceutici a Ancona in questa settimana.
+Queste informazioni sono utili per chi cerca servizi farmaceutici a Ancona in questa settimana.
