@@ -1,21 +1,21 @@
-### 1. **Multiplex Giometti**
+### 1. **Multiplex Giometti Ancona**
    - **Indirizzo:** Via Filonzi, 4 - Ancona (AN)
    - **Telefono:** 07194123
    - **Film in programmazione:**
      - **Oceania 2**
-       - Orari: 15:30, 16:00, 16:30, 17:30, 18:00, 18:30, 19:30, 20:30, 21:30, 22:30 (Versione 3D: 20:00)
-     - **Napoli - New York**
-       - Orari: 17:30, 22:40
-     - **Una Terapia di Gruppo**
-       - Orari: 18:00, 20:40, 22:40
+       - Orari: 15:30, 16:00, 16:30, 17:30, 18:00, 18:30, 19:30, 20:30, 21:30, 22:30 (3D: 20:00)
      - **Wicked**
        - Orari: 15:30, 20:40, 22:30 (Versione originale con sottotitoli: 17:30)
      - **Il Gladiatore II**
        - Orari: 18:30, 21:40
-     - **Giurato Numero 2**
-       - Orari: 15:40, 20:20
      - **Il Ragazzo dai Pantaloni Rosa**
        - Orari: 15:20, 17:40, 20:10
+     - **Napoli - New York**
+       - Orari: 17:30, 22:40
+     - **Una Terapia di Gruppo**
+       - Orari: 18:00, 20:40, 22:40
+     - **Giurato Numero 2**
+       - Orari: 15:40, 20:20
      - **Terrifier 3**
        - Orari: 22:40
      - **Il Robot Selvaggio**
@@ -32,24 +32,10 @@
      - **Le Déluge - Gli ultimi giorni di Maria Antonietta**
        - Orari: 21:00
 
-### 3. **Movieland Ancona Goldoni**
-   - **Indirizzo:** Via Montebello, 91 - Ancona (AN)
-   - **Telefono:** 071201236
-   - **Film in programmazione:**
-     - **Oceania 2**
-       - Orari: 18:00, 20:30
-     - **Napoli - New York**
-       - Orari: 18:40, 21:10
-     - **Una Terapia di Gruppo**
-       - Orari: 18:20
-     - **Hayao Miyazaki e L'Airone**
-       - Orari: 20:50
-
 ### Informazioni Aggiuntive:
 **Prezzi biglietti:** 
-- Multiplex Giometti: Intero €9,50, Ridotto €7,50, Mercoledì €6,50.
-- Cinema Azzurro: Prezzo unico €5,00.
-- Movieland Ancona Goldoni: Prezzo variabile, consultare il cinema.
+- Multiplex Giometti: Intero €9,50, Ridotto €7,50, Mercoledì €6,50
+- Cinema Azzurro: Prezzo non specificato.
 
 **Consigli:** 
-- Si consiglia di prenotare i biglietti online per assicurarsi il posto, specialmente nei weekend e per le prime visioni. L'ingresso in sala è consentito solo fino all'inizio del film.
+- Si consiglia di prenotare i biglietti online per garantire il posto, specialmente nei fine settimana. L'ingresso in sala è consentito solo fino all'orario di inizio del film.
