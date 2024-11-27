@@ -33,7 +33,7 @@ function loadSupermarketFile(filePath) {
             // Filtra le righe per rimuovere introduzioni o intestazioni inutili
             const lines = data.split('\n');
             const filteredLines = lines.filter(line => 
-                !line.startsWith("Ecco un elenco") &&
+                !line.startsWith("Ecco") &&
                 !line.startsWith("Questi supermercati")
             );
 
