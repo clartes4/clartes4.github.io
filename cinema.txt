@@ -2,53 +2,54 @@
    - **Indirizzo:** Via Filonzi, 4 - Ancona (AN)
    - **Telefono:** 07194123
    - **Film in programmazione:**
-     - **Eterno Visionario**
-       - Orari: 20:00
+     - **Oceania 2**
+       - Orari: 15:30, 16:00, 16:30, 17:30, 18:00, 18:30, 19:30, 20:30, 21:30, 22:30 (Versione 3D: 20:00)
+     - **Napoli - New York**
+       - Orari: 17:30, 22:40
+     - **Una Terapia di Gruppo**
+       - Orari: 18:00, 20:40, 22:40
+     - **Wicked**
+       - Orari: 15:30, 20:40, 22:30 (Versione originale con sottotitoli: 17:30)
+     - **Il Gladiatore II**
+       - Orari: 18:30, 21:40
+     - **Giurato Numero 2**
+       - Orari: 15:40, 20:20
      - **Il Ragazzo dai Pantaloni Rosa**
-       - Orari: 18:00, 20:20, 22:30
-     - **Berlinguer - La Grande Ambizione**
-       - Orari: 22:40
+       - Orari: 15:20, 17:40, 20:10
      - **Terrifier 3**
-       - Orari: 17:40, 20:15, 22:45
-     - **Uno Rosso**
-       - Orari: 17:30, 20:15, 22:40
-     - **Venom: The Last Dance**
-       - Orari: 17:50, 20:10, 22:30
-     - **Anora**
-       - Orari: 21:00
-     - **Un'avventura spaziale - Un film dei Looney Tunes**
-       - Orari: 17:30
-     - **The Substance**
-       - Orari: 19:30, 22:15
-     - **Parthenope**
-       - Orari: 18:30
-     - **Buffalo Kids**
-       - Orari: 17:30
+       - Orari: 22:40
      - **Il Robot Selvaggio**
-       - Orari: 17:40
-     - **Stop Making Sense**
-       - Orari: 21:00
+       - Orari: 15:30
+     - **La Banda di Don Chisciotte - Missione Mulini a Vento**
+       - Orari: 15:40
+     - **The Strangers - Capitolo 1**
+       - Orari: 22:45
 
-### 2. **Movieland Goldoni**
-   - **Indirizzo:** Via Montebello, 91 - Ancona (AN)
-   - **Telefono:** 071201236
-   - **Film in programmazione:**
-     - **Il Ragazzo dai Pantaloni Rosa**
-       - Orari: 18:30, 21:10
-     - **Berlinguer - La Grande Ambizione**
-       - Orari: 18:15
-     - **Eterno Visionario**
-       - Orari: 20:45
-
-### 3. **Cinema Azzurro**
+### 2. **Cinema Azzurro**
    - **Indirizzo:** Via Tagliamento, 39 - Ancona (AN)
    - **Telefono:** 0710973884
    - **Film in programmazione:**
-     - **Anora**
+     - **Le Déluge - Gli ultimi giorni di Maria Antonietta**
        - Orari: 21:00
-     - **Vermiglio**
-       - Orari: 16:30, 18:45
+
+### 3. **Movieland Ancona Goldoni**
+   - **Indirizzo:** Via Montebello, 91 - Ancona (AN)
+   - **Telefono:** 071201236
+   - **Film in programmazione:**
+     - **Oceania 2**
+       - Orari: 18:00, 20:30
+     - **Napoli - New York**
+       - Orari: 18:40, 21:10
+     - **Una Terapia di Gruppo**
+       - Orari: 18:20
+     - **Hayao Miyazaki e L'Airone**
+       - Orari: 20:50
 
 ### Informazioni Aggiuntive:
-**Prezzi biglietti:** Prezzo medio del biglietto intero è di €6,50.  
-**Consigli:** È consigliato prenotare i biglietti online per evitare code e garantire l'ingresso, soprattutto per i film più richiesti.
+**Prezzi biglietti:** 
+- Multiplex Giometti: Intero €9,50, Ridotto €7,50, Mercoledì €6,50.
+- Cinema Azzurro: Prezzo unico €5,00.
+- Movieland Ancona Goldoni: Prezzo variabile, consultare il cinema.
+
+**Consigli:** 
+- Si consiglia di prenotare i biglietti online per assicurarsi il posto, specialmente nei weekend e per le prime visioni. L'ingresso in sala è consentito solo fino all'inizio del film.
