@@ -12,7 +12,7 @@
        - Orari: 16:20, 18:30, 20:40
      - **Napoli - New York**
        - Orari: 20:00, 22:30
-     - **Una Terapia di Gruppo**
+     - **Una Terapia Di Gruppo**
        - Orari: 16:30
      - **Giurato Numero 2**
        - Orari: 18:50
@@ -28,7 +28,7 @@
    - **Telefono:** 0710973884
    - **Film in programmazione:**
      - **Piccole cose come queste**
-       - Orari: 21:00 (Lingua Originale con Sottotitoli in Italiano)
+       - Orari: 21:00 (Lingua Originale con Sottotitoli)
 
 ### 3. **Movieland Goldoni**
    - **Indirizzo:** Via Montebello, 91 - Ancona (AN)
@@ -46,9 +46,9 @@
 ### Informazioni Aggiuntive:
 **Prezzi biglietti:** 
 - Multiplex Giometti: Intero €9,50, Ridotto €7,50, Mercoledì €6,50
-- Cinema Azzurro: Prezzi variabili
-- Movieland Goldoni: Prezzi variabili
+- Cinema Azzurro: Prezzi non specificati
+- Movieland Goldoni: Prezzi non specificati
 
 **Consigli:** 
-- È consigliata la prenotazione online per garantire il posto, specialmente nei weekend e per i film più richiesti. 
+- Si consiglia di prenotare i biglietti online per evitare lunghe attese.
 - Non è consentito l'ingresso a film iniziato.

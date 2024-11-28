@@ -11,41 +11,41 @@
 3. **Conad**
    - **Indirizzo:** Via Tiziano, 23/29, Ancona, AN, 60125
    - **Telefono:** 071 2805058
-   - **Orari:** 09:00 - 22:00
+   - **Orari:** 08:00 - 20:00
 
 4. **Conad**
+   - **Indirizzo:** Corso Carlo Alberto, 2, Ancona, AN, 60127
+   - **Telefono:** 071 44640
+   - **Orari:** 08:00 - 20:00
+
+5. **Conad**
    - **Indirizzo:** Via Trieste, 45/47, Ancona, AN, 60124
    - **Telefono:** 071 32986
-   - **Orari:** 09:00 - 22:00
+   - **Orari:** 08:00 - 20:00
 
-5. **Coop**
+6. **Coop**
+   - **Indirizzo:** Via Maratta Carlo, 30, Ancona, AN, 60123
+   - **Telefono:** 071 33775
+   - **Orari:** 08:00 - 20:00
+
+7. **Coop**
    - **Indirizzo:** Via Dell' Artigianato, 6, Ancona, AN, 60127
    - **Telefono:** 071 2814824
-   - **Orari:** 08:15 - 19:30
+   - **Orari:** 08:00 - 20:00
 
-6. **Crai**
-   - **Indirizzo:** Corso Mazzini Giuseppe, Ancona, AN, 60131
+8. **Crai**
+   - **Indirizzo:** Corso Mazzini, Ancona, AN, 60131
    - **Telefono:** 071 201251
    - **Orari:** 06:30 - 13:30
 
-7. **Eurospin**
-   - **Indirizzo:** Via Valle Miano, 30, Ancona, AN, 60125
-   - **Telefono:** 071 2801712
-   - **Orari:** 08:00 - 21:00
+9. **Eurospin**
+   - **Indirizzo:** Via I Maggio, 10, Ancona, AN, 60131
+   - **Telefono:** 071 2901334
+   - **Orari:** 08:00 - 20:00
 
-8. **Coal il Market City**
-   - **Indirizzo:** Via Manzoni Alessandro, 23, Ancona, AN, 60128
-   - **Telefono:** 071 2810234
-   - **Orari:** Orario continuato
-
-9. **Coal il Market**
-   - **Indirizzo:** Via Podesti Francesco, 4, Ancona, AN, 60122
-   - **Telefono:** 071 202629
-   - **Orari:** Orario continuato
-
-10. **Lidl**
-    - **Indirizzo:** Via Amos Luchetti Gentiloni, 7, Ancona, AN, 60126
-    - **Telefono:** Non disponibile
-    - **Orari:** 09:00 - 22:00
+10. **Valle Bio**
+    - **Indirizzo:** Via Valenti Ghino, 1, Ancona, AN, 60131
+    - **Telefono:** 071 2901199
+    - **Orari:** Orario continuato
 
 Questi supermercati sono disponibili per la spesa questa settimana ad Ancona.
