@@ -1,79 +1,64 @@
 ### Farmacie di Ancona Aperte Oggi (28 Novembre 2024)
 
-1. **Farmacia Dubbini**
-   - **Indirizzo:** Corso Giovanni Amendola, 26, Ancona, AN, 60123
-   - **Orari:** 08:00 - 13:00, 16:00 - 20:00
-   - **Telefono:** 071 202710
+1. **Farmacia Flaminia**
+   - **Indirizzo:** Via Esino, 62, Ancona, AN, 60126
+   - **Orari:** 08:00 - 20:00
+   - **Telefono:** 071 888251
 
-2. **Farmacia Lemme**
-   - **Indirizzo:** Via delle Tavernelle, 107, Ancona, AN, 60128
-   - **Orari:** 08:00 - 13:00, 16:00 - 19:45
-   - **Telefono:** 071 85808
-
-3. **Farmacia Tomassini**
+2. **Farmacia Tomassini**
    - **Indirizzo:** Frazione Aspio, 4, Ancona, AN, 60131
-   - **Orari:** 08:30 - 12:45, 16:00 - 19:45
+   - **Orari:** 08:30 - 20:00
    - **Telefono:** 071 2906141
 
-4. **Farmacia Posatora**
-   - **Indirizzo:** Via Martin Luther King, 9, Ancona, AN, 60131
-   - **Orari:** 08:30 - 13:00, 16:00 - 19:30
-   - **Telefono:** 071 42767
+3. **Farmacia Collemarino**
+   - **Indirizzo:** Via Matteo Ricci, 15, Ancona, AN, 60126
+   - **Orari:** 08:00 - 20:00
+   - **Telefono:** 071 882210
 
-5. **Farmacia La Salute**
-   - **Indirizzo:** Via del Conero, 34, Ancona, AN, 60129
-   - **Orari:** 08:30 - 13:00, 16:00 - 19:30
-   - **Telefono:** 071 2365807
+4. **Farmacia Zecchini**
+   - **Indirizzo:** Piazza Roma, 1, Ancona, AN, 60121
+   - **Orari:** 08:30 - 20:00
+   - **Telefono:** 071 2074804
 
-6. **Farmacia Palmieri & Gaffuri**
+5. **Farmacia Valla Dr. Paolo**
+   - **Indirizzo:** Corso Giuseppe Garibaldi, 116, Ancona, AN, 60121
+   - **Orari:** 08:00 - 20:00
+   - **Telefono:** 071 2070220
+
+6. **Farmacia Tornatora**
+   - **Indirizzo:** Piazza Salvo D'Acquisto, 38, Ancona, AN, 60131
+   - **Orari:** 08:30 - 12:30, 16:00 - 19:30
+   - **Telefono:** 071 2866437
+
+7. **Farmacia Sciarrillo**
+   - **Indirizzo:** Via Ascoli Piceno, 23, Ancona, AN, 60126
+   - **Orari:** 08:00 - 20:00
+   - **Telefono:** 071 898061
+
+8. **Farmacia Palmieri e Gaffuri**
    - **Indirizzo:** Corso Giuseppe Garibaldi, 62, Ancona, AN, 60121
    - **Orari:** 08:00 - 20:00
    - **Telefono:** 071 202771
 
-7. **Farmacia Ancona**
-   - **Indirizzo:** Corso Giovanni Amendola, 5/B, Ancona, AN, 60123
-   - **Orari:** 08:30 - 13:00, 16:00 - 19:30
-   - **Telefono:** 071 204142
+9. **Farmacia Nazionale**
+   - **Indirizzo:** Via Guglielmo Marconi, 131, Ancona, AN, 60125
+   - **Orari:** 08:30 - 13:00, 16:30 - 20:30
+   - **Telefono:** 071 204040
 
-8. **Farmacia del Passetto**
-   - **Indirizzo:** Viale della Vittoria, 75/b, Ancona, AN, 60123
-   - **Orari:** 08:30 - 13:00, 15:30 - 20:00
-   - **Telefono:** 071 32366
+10. **Farmacia La Salute**
+    - **Indirizzo:** Via del Conero, 34, Ancona, AN, 60129
+    - **Orari:** 08:30 - 13:00, 15:30 - 19:30
+    - **Telefono:** 071 2365807
 
-9. **Farmacia Adriatica**
-   - **Indirizzo:** Via Trieste, 1/A, Ancona, AN, 60124
-   - **Orari:** 08:30 - 13:00, 16:30 - 20:00
-   - **Telefono:** 071 204252
+11. **Farmacia Del Piano**
+    - **Indirizzo:** Piazza Ugo Bassi, 4, Ancona, AN, 60121
+    - **Orari:** 08:00 - 23:00
+    - **Telefono:** 071 894208
 
-10. **Farmacia Zecchini**
-    - **Indirizzo:** Piazza Roma, 1, Ancona, AN, 60121
-    - **Orari:** 08:30 - 20:00
-    - **Telefono:** 071 2074804
-
-11. **Farmacia dell'Orologio**
-    - **Indirizzo:** Piazza Roma, 7, Ancona, AN, 60121
-    - **Orari:** 08:00 - 13:00, 16:00 - 19:45
-    - **Telefono:** 071 2074801
-
-12. **Farmacia della Ferrovia**
-    - **Indirizzo:** Via Guglielmo Marconi, 213, Ancona, AN, 60125
-    - **Orari:** 08:30 - 13:00, 16:00 - 19:30
-    - **Telefono:** 071 44937
-
-13. **Farmacia Nazionale**
-    - **Indirizzo:** Via Guglielmo Marconi, 131, Ancona, AN, 60125
-    - **Orari:** 08:30 - 13:00, 16:30 - 20:30
-    - **Telefono:** 071 204040
-
-14. **Farmacia Vallemiano**
-    - **Indirizzo:** Via Martiri della Resistenza, 61/A/B, Ancona, AN, 60125
-    - **Orari:** 08:00 - 13:30, 16:00 - 20:00
-    - **Telefono:** 071 2362669
-
-15. **Farmacia delle Grazie**
-    - **Indirizzo:** Via Mario Torresi, 137, Ancona, AN, 60128
-    - **Orari:** 07:45 - 20:00
-    - **Telefono:** 071 898332
+12. **Farmacia Del Passetto**
+    - **Indirizzo:** Viale Della Vittoria, 75, Ancona, AN, 60123
+    - **Orari:** 08:30 - 13:00, 15:30 - 20:00
+    - **Telefono:** 071 32366
 
 ### Farmacie di Turno Notturno Questa Settimana
 - **Farmacia Centrale**
