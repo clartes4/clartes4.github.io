@@ -12,7 +12,7 @@
        - Orari: 16:20, 18:30, 20:40
      - **Napoli - New York**
        - Orari: 20:00, 22:30
-     - **Una Terapia Di Gruppo**
+     - **Una Terapia di Gruppo**
        - Orari: 16:30
      - **Giurato Numero 2**
        - Orari: 18:50
@@ -23,14 +23,7 @@
      - **Hey Joe**
        - Orari: 20:00, 22:30
 
-### 2. **Cinema Azzurro**
-   - **Indirizzo:** Via Tagliamento, 39 - Ancona (AN)
-   - **Telefono:** 0710973884
-   - **Film in programmazione:**
-     - **Piccole cose come queste**
-       - Orari: 21:00 (Lingua Originale con Sottotitoli)
-
-### 3. **Movieland Goldoni**
+### 2. **Movieland Goldoni**
    - **Indirizzo:** Via Montebello, 91 - Ancona (AN)
    - **Telefono:** 071201236
    - **Film in programmazione:**
@@ -43,12 +36,18 @@
      - **Modi - Tre Giorni sulle Ali della Follia**
        - Orari: 18:45
 
+### 3. **Cinema Azzurro**
+   - **Indirizzo:** Via Tagliamento, 39 - Ancona (AN)
+   - **Telefono:** 0710973884
+   - **Film in programmazione:**
+     - **Piccole cose come queste**
+       - Orari: 21:00 (Lingua originale con sottotitoli)
+
 ### Informazioni Aggiuntive:
 **Prezzi biglietti:** 
 - Multiplex Giometti: Intero €9,50, Ridotto €7,50, Mercoledì €6,50
-- Cinema Azzurro: Prezzi non specificati
-- Movieland Goldoni: Prezzi non specificati
+- Movieland Goldoni e Cinema Azzurro: Prezzi variabili, consultare il sito per dettagli.
 
 **Consigli:** 
-- Si consiglia di prenotare i biglietti online per evitare lunghe attese.
-- Non è consentito l'ingresso a film iniziato.
+- È consigliato prenotare i biglietti online per garantire il posto.
+- Arrivare in anticipo per evitare di perdere l'inizio del film, poiché l'ingresso non è consentito a film iniziato.
