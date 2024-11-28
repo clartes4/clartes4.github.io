@@ -1,53 +1,51 @@
-Ecco l'elenco dei supermercati di Ancona con i rispettivi orari di apertura, indirizzo e numero di telefono, disponibili questa settimana:
-
 1. **Supermercato Sì con Te**
    - **Indirizzo:** Via Giacomo Matteotti, 115, Ancona, AN, 60121
    - **Telefono:** 071 2814070
-   - **Orari:** 08:00 - 20:30
+   - **Orari:** Orario continuato
 
-2. **Supermercato Sì con Te - Q2**
+2. **Sì Con Te Supermercato - Q2**
    - **Indirizzo:** Via Flavia, snc, Ancona, AN, 60131
    - **Telefono:** 071 2864961
-   - **Orari:** 08:00 - 20:30
+   - **Orari:** Orario continuato
 
 3. **Conad**
    - **Indirizzo:** Via Tiziano, 23/29, Ancona, AN, 60125
    - **Telefono:** 071 2805058
-   - **Orari:** 08:00 - 20:30
+   - **Orari:** 09:00 - 22:00
 
 4. **Conad**
-   - **Indirizzo:** Corso Carlo Alberto, 2, Ancona, AN, 60127
-   - **Telefono:** 071 44640
-   - **Orari:** 08:00 - 20:30
-
-5. **Conad**
    - **Indirizzo:** Via Trieste, 45/47, Ancona, AN, 60124
    - **Telefono:** 071 32986
-   - **Orari:** 08:00 - 20:30
+   - **Orari:** 09:00 - 22:00
 
-6. **Coop**
+5. **Coop**
    - **Indirizzo:** Via Dell' Artigianato, 6, Ancona, AN, 60127
    - **Telefono:** 071 2814824
-   - **Orari:** 08:00 - 20:30
+   - **Orari:** 08:15 - 19:30
 
-7. **Crai**
+6. **Crai**
    - **Indirizzo:** Corso Mazzini Giuseppe, Ancona, AN, 60131
    - **Telefono:** 071 201251
    - **Orari:** 06:30 - 13:30
 
-8. **Eurospin**
+7. **Eurospin**
    - **Indirizzo:** Via Valle Miano, 30, Ancona, AN, 60125
-   - **Telefono:** 045 7862000
-   - **Orari:** 08:00 - 20:30
+   - **Telefono:** 071 2801712
+   - **Orari:** 08:00 - 21:00
 
-9. **Coal il Market City**
+8. **Coal il Market City**
    - **Indirizzo:** Via Manzoni Alessandro, 23, Ancona, AN, 60128
    - **Telefono:** 071 2810234
-   - **Orari:** 08:00 - 20:30
+   - **Orari:** Orario continuato
 
-10. **Coal il Market**
-    - **Indirizzo:** Via Podesti Francesco, 4, Ancona, AN, 60122
-    - **Telefono:** 071 202629
-    - **Orari:** 08:00 - 20:30
+9. **Coal il Market**
+   - **Indirizzo:** Via Podesti Francesco, 4, Ancona, AN, 60122
+   - **Telefono:** 071 202629
+   - **Orari:** Orario continuato
+
+10. **Lidl**
+    - **Indirizzo:** Via Amos Luchetti Gentiloni, 7, Ancona, AN, 60126
+    - **Telefono:** Non disponibile
+    - **Orari:** 09:00 - 22:00
 
 Questi supermercati sono disponibili per la spesa questa settimana ad Ancona.
